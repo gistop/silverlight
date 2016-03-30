@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\template\template.Web\bin\template.Web.dll
+c:\users\administrator\documents\visual studio 2012\Projects\template\template.Web\bin\template.Web.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\template\template.Web\obj\Debug\template.Web.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\template\template.Web\obj\Debug\template.Web.dll
+c:\users\administrator\documents\visual studio 2012\Projects\template\template.Web\obj\Debug\template.Web.pdb
